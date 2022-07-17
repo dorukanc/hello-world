@@ -7,3 +7,7 @@ adding a commit.
 ## subheader
 
 adding this commit from terminal.
+
+## local development 
+
+1. Open index.html in your browser. 
